@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1616332894 source:c:\users\wieth\documents\ads 2021\hands-on-work1\appends\how1-ads-univali\conversores.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	<iomanip>
+	<sstream>
+	"conversores.h"
+
+1616332086 c:\users\wieth\documents\ads 2021\hands-on-work1\appends\how1-ads-univali\conversores.h
+
+1616333920 source:c:\users\wieth\documents\ads 2021\hands-on-work1\appends\how1-ads-univali\menu.cpp
+	<iostream>
+	"conversores.h"
+	"inicio.h"
+
+1616334364 c:\users\wieth\documents\ads 2021\hands-on-work1\appends\how1-ads-univali\inicio.h
+
+1616334135 source:c:\users\wieth\documents\ads 2021\hands-on-work1\appends\how1-ads-univali\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	"conversores.h"
+	"menu.h"
+	"inicio.h"
+
+1616334157 c:\users\wieth\documents\ads 2021\hands-on-work1\appends\how1-ads-univali\menu.h
+
+1616334263 source:c:\users\wieth\documents\ads 2021\hands-on-work1\appends\how1-ads-univali\inicio.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<stdio.h>
+	<chrono>
+	<thread>
+	<windows.h>
+	<unistd.h>
+
