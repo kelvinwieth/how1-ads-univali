@@ -46,25 +46,8 @@ int hexaToDecimal(string hexa){
 }
 
 string decimalToHexa(int decimal) {
-    int resto;
-    string hexa;
-
-    while (decimal > 16) {
-        resto = decimal % 16;
-
-        if (resto > 9) {
-            hexa += char(resto + 55);
-        } else {
-            hexa += to_string(resto);
-        }
-
-        decimal /= 16;
-    }
-    if (decimal >= 1) { hexa += to_string(decimal); }
-
-
-    reverse(hexa.begin(), hexa.end());
-    return hexa;
+    printf("%X", decimal);
+    return " ";
 }
 
 
